@@ -1,6 +1,7 @@
 {
     "name": "jalieb/shopware-6-client-sdk",
     "description": "",
+    "version": "0.0.1",
     "keywords": [
         "swagger",
         "php",
